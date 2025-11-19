@@ -1,9 +1,5 @@
 # Healthcare Patient Management API
 
-[![Go](https://img.shields.io/badge/Go-1.x-blue?logo=go)](https://golang.org)  
-[![MongoDB Atlas](https://img.shields.io/badge/MongoDB-Atlas-Cloud-green?logo=mongodb)](https://www.mongodb.com/cloud/atlas)  
-
-
 ## Table of Contents
 - [Overview](#overview)  
 - [Features](#features)  
@@ -51,7 +47,7 @@ This project is a RESTful API built in Go (Golang) for managing basic healthcare
    ```bash
    git clone https://github.com/Mizbain-Fathima/Healthcare-patient-management.git
    cd Healthcare-patient-management
-```
+   ```
 
 2. Create a `.env` file in the project root and add your MongoDB URI:
 
