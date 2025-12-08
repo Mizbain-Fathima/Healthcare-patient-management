@@ -63,19 +63,13 @@ This project is a RESTful API built in Go (Golang) for managing basic healthcare
    go mod tidy
    ```
 
-5. Generate Swagger documentation (if not generated yet):
-
-   ```bash
-   swag init
-   ```
-
-6. Run the API server:
+5. Run the API server:
 
    ```bash
    go run main.go
    ```
 
-7. Visit the API:
+6. Visit the API:
 `
 API Root: `http://localhost:8080`
 
